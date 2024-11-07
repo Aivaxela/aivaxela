@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey! Thanks for checking out my profile.
+
+#### I'm currently collaborating with a small team to create [Drops Care](https://github.com/jahorwitz/drops) - an app for helping individuals with diabetes track their health.
+
+Feel free to reach out to me via email:
+rmarcum13@gmail.com
+
+Or connect with me on [LinkedIn](https://www.linkedin.com/in/rileymarcum/)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **Aivaxela/aivaxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
