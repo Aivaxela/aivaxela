@@ -1,4 +1,4 @@
-## Hey! Thanks for checking out my profile.
+## Hey! I'm Riley and thanks for checking out my profile.
 
 #### I'm currently collaborating with a small team to create [Drops Care](https://github.com/jahorwitz/drops) - an app for helping individuals with diabetes track their health.
 
