@@ -7,7 +7,17 @@ rmarcum13@gmail.com
 
 Or connect with me on [LinkedIn](https://www.linkedin.com/in/rileymarcum/)
 
-!(https://skillicons.dev/icons?i=js,ts,react,html,tailwind,css,mongodb,express,nodejs,npm,git,github,vite,webpack,postman,nginx,vscode,bash,figma,graphql,godot,cs)
+### Web app development:
+![Skills](https://skillicons.dev/icons?i=js,ts,react,npm,git,github,postman,vscode,bash)
+
+#### Front end:
+![Skills](https://skillicons.dev/icons?i=react,html,tailwind,css,vite,webpack,figma)
+
+#### Back end:
+![Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,nginx,gcp,graphql)
+
+### Game development:
+![Skills](https://skillicons.dev/icons?i=godot,cs)
 
 <!--
 **Aivaxela/aivaxela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
