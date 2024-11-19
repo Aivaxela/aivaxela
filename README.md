@@ -8,13 +8,13 @@ rmarcum13@gmail.com
 Or connect with me on [LinkedIn](https://www.linkedin.com/in/rileymarcum/)
 
 ## Web app development:
-![Skills](https://skillicons.dev/icons?i=js,ts,npm,git,github,postman,vscode,bash)
+![Skills](https://skillicons.dev/icons?i=js,ts,npm,git,github,postman,vscode,bash,apollo,graphql)
 
 #### Front end:
 ![Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,vite,webpack,figma)
 
 #### Back end:
-![Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,nginx,gcp,graphql)
+![Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,nginx,gcp)
 
 ## Game development:
 ![Skills](https://skillicons.dev/icons?i=godot,cs)
