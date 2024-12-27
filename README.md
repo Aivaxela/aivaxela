@@ -1,4 +1,4 @@
-## Hey! I'm Riley. I do software engineering and game development. Check out my stuff!
+## Hey! I'm Riley. I do software engineering and game development.
 
 #### I'm currently collaborating with a small team to create [Drops Care](https://github.com/jahorwitz/drops) - an app for helping individuals with diabetes track their health.
 
